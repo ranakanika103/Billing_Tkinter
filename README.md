@@ -18,15 +18,15 @@ A feature-rich, user-friendly desktop billing application built using **Python T
 ---
 
 ## 📁 Project Structure
-supermarket_billing/
+supermarket_billing/ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  
 ├── billing_app.py   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;           # Main application code
 ├── supermarket_bills.db     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;    # SQLite database (auto-created)
-├── screenshots/          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;       # GUI and app screenshots
-&nbsp;    ├── bill1.png &nbsp;  &nbsp; &nbsp;  &nbsp; # Sample board screenshot <br>
-&nbsp;    └── bill2.png <br>
-&nbsp;    └── bill3.png <br> 
-&nbsp;    └── bill4.png <br> 
-&nbsp;    └── bill5.png <br> 
+├── screenshots/&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;       # GUI and app screenshots
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ├── bill1.png &nbsp;  &nbsp; &nbsp;  &nbsp; # Sample board screenshot <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  └── bill2.png <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  └── bill3.png <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  └── bill4.png <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  └── bill5.png <br> 
 ├── README.md         &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;          # Project documentation
 
 ---
