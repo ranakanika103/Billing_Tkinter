@@ -1,0 +1,8 @@
+	   RETAIL BILLING SYSTEM
+
+Bill Number: 125848
+Customer Name: 
+Phone Number: 
+====================================
+Products	Qty	Price
+====================================
